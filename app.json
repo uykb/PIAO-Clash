@@ -1,7 +1,7 @@
 {
     "name": "V2Ray",
     "description": "Deploy sky on sky.",
-    "keywords": ["PIAO-Clash"],
+    "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
